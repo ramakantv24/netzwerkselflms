@@ -1,0 +1,519 @@
+[09-Sep-2024 09:41:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjdcjy26p2353.notes' doesn't exist in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php:34
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php(34): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php on line 34
+[09-Sep-2024 09:42:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjdcjy26p2353.notes' doesn't exist in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php:34
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php(34): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php on line 34
+[09-Sep-2024 10:54:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[09-Sep-2024 10:59:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[09-Sep-2024 11:02:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[09-Sep-2024 11:27:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[09-Sep-2024 14:04:27 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[09-Sep-2024 14:04:27 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[09-Sep-2024 14:04:27 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[09-Sep-2024 14:06:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[09-Sep-2024 14:27:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[10-Sep-2024 05:49:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[10-Sep-2024 05:52:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[10-Sep-2024 08:39:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[10-Sep-2024 08:41:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[11-Sep-2024 07:03:40 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[11-Sep-2024 07:03:40 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[11-Sep-2024 07:03:40 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[11-Sep-2024 07:09:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[11-Sep-2024 07:49:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[11-Sep-2024 07:52:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[11-Sep-2024 07:56:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[11-Sep-2024 07:57:36 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[11-Sep-2024 07:57:36 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[11-Sep-2024 07:57:36 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[11-Sep-2024 07:59:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[11-Sep-2024 08:02:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[12-Sep-2024 06:55:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[12-Sep-2024 08:38:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[12-Sep-2024 09:06:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[12-Sep-2024 09:09:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[12-Sep-2024 09:24:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:126
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(126): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 126
+[12-Sep-2024 09:33:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:126
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(126): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 126
+[17-Sep-2024 18:06:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjdcjy26p2353.notes' doesn't exist in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php:34
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php(34): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php on line 34
+[17-Sep-2024 18:06:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjdcjy26p2353.notes' doesn't exist in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php:34
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php(34): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php on line 34
+[17-Sep-2024 18:08:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjdcjy26p2353.notes' doesn't exist in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php:35
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php(35): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php on line 35
+[18-Sep-2024 05:49:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjdcjy26p2353.notes' doesn't exist in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php:35
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php(35): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php on line 35
+[23-Sep-2024 05:24:58 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/MACHINE LEARNING (1).pdf): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/addCourse.php on line 18
+[23-Sep-2024 05:24:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7Yjs3x' to '/var/www/netzwerkself/lms/admin/pdf/MACHINE LEARNING (1).pdf' in /home/s8jx8d0mjf1d/public_html/lms/admin/addCourse.php on line 18
+[23-Sep-2024 05:28:15 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/Call_script (2) (1).pdf): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:28:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJfSIj6' to '/var/www/netzwerkself/lms/admin/pdf/Call_script (2) (1).pdf' in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:28:15 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/Stories framework.docx): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:28:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmD7MvD' to '/var/www/netzwerkself/lms/admin/pdf/Stories framework.docx' in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:28:15 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/Chat Script.docx): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:28:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcwcth3' to '/var/www/netzwerkself/lms/admin/pdf/Chat Script.docx' in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:28:15 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/Offer message after the call.docx): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:28:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdzuiot' to '/var/www/netzwerkself/lms/admin/pdf/Offer message after the call.docx' in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:28:33 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 05:28:36 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 05:39:48 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 05:40:30 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/Follow up messages.docx): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:40:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpekt2J1' to '/var/www/netzwerkself/lms/admin/pdf/Follow up messages.docx' in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:40:44 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/Follow up messages.docx): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:40:44 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpou8NQz' to '/var/www/netzwerkself/lms/admin/pdf/Follow up messages.docx' in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:40:55 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/Follow up messages.docx): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:40:55 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSlftEB' to '/var/www/netzwerkself/lms/admin/pdf/Follow up messages.docx' in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 05:41:04 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 05:41:10 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 05:41:13 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 05:41:27 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 05:41:32 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 05:41:37 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 05:41:48 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 05:41:56 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[23-Sep-2024 08:32:52 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/Ed-Tech-Checklist.xlsx): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 08:32:52 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiqYyIo' to '/var/www/netzwerkself/lms/admin/pdf/Ed-Tech-Checklist.xlsx' in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[23-Sep-2024 08:33:02 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[07-Oct-2024 06:33:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjdcjy26p2353.notes' doesn't exist in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php:35
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php(35): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php on line 35
+[07-Oct-2024 06:33:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjdcjy26p2353.notes' doesn't exist in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php:35
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php(35): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/notes.php on line 35
+[14-Oct-2024 05:17:16 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/PYTHON notes.pdf): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/addCourse.php on line 18
+[14-Oct-2024 05:17:16 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQbCzWk' to '/var/www/netzwerkself/lms/admin/pdf/PYTHON notes.pdf' in /home/s8jx8d0mjf1d/public_html/lms/admin/addCourse.php on line 18
+[14-Oct-2024 13:53:50 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/MACHINE LEARNING (1).pdf): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/addCourse.php on line 18
+[14-Oct-2024 13:53:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAeGlh0' to '/var/www/netzwerkself/lms/admin/pdf/MACHINE LEARNING (1).pdf' in /home/s8jx8d0mjf1d/public_html/lms/admin/addCourse.php on line 18
+[15-Oct-2024 10:10:43 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[30-Oct-2024 12:34:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php:124
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php(124): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 124
+[30-Oct-2024 16:11:47 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/PavitraKM_Resume.Doc.docx): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/addCourse.php on line 18
+[30-Oct-2024 16:11:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprg3UOZ' to '/var/www/netzwerkself/lms/admin/pdf/PavitraKM_Resume.Doc.docx' in /home/s8jx8d0mjf1d/public_html/lms/admin/addCourse.php on line 18
+[07-Nov-2024 05:56:33 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[07-Nov-2024 05:56:33 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[07-Nov-2024 05:56:33 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[07-Nov-2024 05:56:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'netzwerkacademy@gmail.com' for key 'email' in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php:19
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 19
+[07-Nov-2024 06:00:11 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[07-Nov-2024 06:00:11 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[07-Nov-2024 06:00:11 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[13-Nov-2024 06:05:46 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[13-Nov-2024 06:06:34 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/facebook (1).py): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[13-Nov-2024 06:06:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpL4pR6J' to '/var/www/netzwerkself/lms/admin/pdf/facebook (1).py' in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[13-Nov-2024 06:06:48 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/blogs (1).py): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[13-Nov-2024 06:06:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXss3pr' to '/var/www/netzwerkself/lms/admin/pdf/blogs (1).py' in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[13-Nov-2024 06:07:02 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:10:53 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:10:56 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:11:01 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:11:30 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:11:38 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:11:47 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:12:04 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:12:07 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:12:15 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:12:20 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:12:28 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:12:38 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:12:43 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:12:46 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:12:52 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:13:02 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:13:08 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:13:15 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:13:25 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:13:33 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:13:36 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:13:43 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[12-Dec-2024 11:13:46 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[19-Dec-2024 11:34:43 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[29-Dec-2024 15:20:30 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[29-Dec-2024 15:20:30 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[29-Dec-2024 15:20:30 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[29-Dec-2024 15:20:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shivkumarpujari466@gmail.com' for key 'email' in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php:19
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 19
+[29-Dec-2024 15:21:19 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[29-Dec-2024 15:21:19 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[29-Dec-2024 15:21:19 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[29-Dec-2024 15:21:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'shivkumarpujari466@gmail.com' for key 'email' in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php:19
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 19
+[29-Dec-2024 15:25:35 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[29-Dec-2024 15:25:35 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[29-Dec-2024 15:25:35 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[03-Feb-2025 11:33:06 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Feb-2025 11:33:26 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Feb-2025 11:34:03 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Feb-2025 11:34:28 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Feb-2025 12:00:07 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Feb-2025 12:40:56 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Feb-2025 12:44:18 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Feb-2025 15:45:29 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Feb-2025 15:46:20 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Feb-2025 15:46:51 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[04-Feb-2025 02:23:37 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[04-Feb-2025 04:38:41 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[04-Feb-2025 05:09:04 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[04-Feb-2025 05:09:48 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[04-Feb-2025 09:05:23 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-Feb-2025 05:01:07 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-Feb-2025 07:51:33 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-Feb-2025 07:52:06 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-Feb-2025 09:42:35 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-Feb-2025 09:42:57 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-Feb-2025 09:48:21 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 75
+[05-Feb-2025 10:34:14 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-Feb-2025 10:34:53 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-Feb-2025 10:37:13 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Feb-2025 07:09:23 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Feb-2025 07:48:00 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Feb-2025 08:05:48 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Feb-2025 08:25:32 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Feb-2025 09:45:38 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Feb-2025 09:54:53 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Feb-2025 10:32:09 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Feb-2025 16:08:52 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[08-Feb-2025 05:15:45 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[08-Feb-2025 05:16:14 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[08-Feb-2025 05:16:42 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[08-Feb-2025 05:56:56 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[08-Feb-2025 05:57:36 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Feb-2025 08:20:21 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Feb-2025 08:21:05 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Feb-2025 09:42:03 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Feb-2025 10:20:10 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Feb-2025 10:20:34 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Feb-2025 11:25:33 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Feb-2025 13:57:20 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Feb-2025 13:57:56 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[11-Feb-2025 08:12:05 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[11-Feb-2025 16:21:54 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-Feb-2025 05:32:43 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-Feb-2025 06:10:59 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-Feb-2025 06:13:48 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-Feb-2025 06:52:01 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-Feb-2025 09:33:21 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-Feb-2025 09:59:13 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[13-Feb-2025 08:42:55 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[13-Feb-2025 08:43:43 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[13-Feb-2025 08:44:26 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[17-Feb-2025 07:37:55 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[18-Feb-2025 05:11:18 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[18-Feb-2025 05:57:32 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[20-Feb-2025 08:49:13 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[20-Feb-2025 10:41:16 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-Mar-2025 02:55:19 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Mar-2025 06:20:35 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Mar-2025 07:03:12 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[08-Mar-2025 05:17:32 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[08-Mar-2025 06:57:48 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[08-Mar-2025 08:27:23 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[08-Mar-2025 10:23:03 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Mar-2025 06:23:01 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[11-Mar-2025 08:57:14 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-Mar-2025 04:02:38 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-Mar-2025 04:03:16 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[15-Mar-2025 08:30:22 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[15-Mar-2025 10:22:26 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[15-Mar-2025 14:04:46 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[16-Mar-2025 04:21:43 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[16-Mar-2025 13:05:29 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[17-Mar-2025 06:42:31 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[17-Mar-2025 09:57:29 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[17-Mar-2025 11:55:02 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[18-Mar-2025 06:04:57 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[18-Mar-2025 08:03:12 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[18-Mar-2025 10:10:00 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[18-Mar-2025 15:32:17 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[20-Mar-2025 05:01:36 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[20-Mar-2025 05:04:38 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[20-Mar-2025 05:05:06 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/135+ Links for interview Q&amp;A tips – Python 4 pages.pdf): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[20-Mar-2025 05:05:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php44Ex2O&quot; to &quot;/var/www/netzwerkself/lms/admin/pdf/135+ Links for interview Q&amp;A tips – Python 4 pages.pdf&quot; in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[20-Mar-2025 05:05:13 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[20-Mar-2025 05:05:20 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[20-Mar-2025 05:05:29 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[20-Mar-2025 05:05:34 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[20-Mar-2025 05:06:42 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[20-Mar-2025 05:07:07 UTC] PHP Warning:  move_uploaded_file(/var/www/netzwerkself/lms/admin/pdf/web_scraping_project (1).py): Failed to open stream: No such file or directory in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[20-Mar-2025 05:07:07 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpPyyYTT&quot; to &quot;/var/www/netzwerkself/lms/admin/pdf/web_scraping_project (1).py&quot; in /home/s8jx8d0mjf1d/public_html/lms/admin/editCourse.php on line 20
+[20-Mar-2025 05:07:18 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[20-Mar-2025 05:07:41 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[20-Mar-2025 06:02:01 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[20-Mar-2025 06:02:35 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[20-Mar-2025 07:54:49 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[21-Mar-2025 04:59:48 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[21-Mar-2025 05:53:55 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[21-Mar-2025 06:38:39 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[21-Mar-2025 07:26:53 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[21-Mar-2025 08:55:17 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[22-Mar-2025 08:34:48 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[22-Mar-2025 09:50:40 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[22-Mar-2025 10:14:46 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[22-Mar-2025 12:25:54 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[24-Mar-2025 06:11:49 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[24-Mar-2025 08:26:25 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[24-Mar-2025 08:26:55 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[24-Mar-2025 10:33:48 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[24-Mar-2025 12:18:34 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[24-Mar-2025 13:18:03 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[25-Mar-2025 05:38:19 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[25-Mar-2025 06:35:20 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[25-Mar-2025 07:20:44 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[25-Mar-2025 07:21:07 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[25-Mar-2025 08:10:14 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[26-Mar-2025 05:11:58 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 75
+[26-Mar-2025 05:53:19 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[26-Mar-2025 09:38:23 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 75
+[26-Mar-2025 10:07:58 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[27-Mar-2025 07:55:49 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[27-Mar-2025 10:52:36 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[28-Mar-2025 02:58:01 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[28-Mar-2025 09:09:29 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[28-Mar-2025 12:17:21 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[28-Mar-2025 12:17:50 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[29-Mar-2025 14:56:31 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[31-Mar-2025 10:13:03 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[31-Mar-2025 14:01:39 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[01-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[02-Apr-2025 06:18:42 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[02-Apr-2025 07:22:06 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Apr-2025 06:34:21 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Apr-2025 08:07:16 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Apr-2025 08:07:41 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[03-Apr-2025 13:37:07 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[04-Apr-2025 05:06:49 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[04-Apr-2025 05:24:04 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[04-Apr-2025 05:43:57 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-Apr-2025 16:28:50 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Apr-2025 04:58:24 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Apr-2025 05:01:22 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Apr-2025 06:38:45 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Apr-2025 06:59:59 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Apr-2025 07:53:10 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Apr-2025 08:26:56 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-Apr-2025 11:46:31 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[08-Apr-2025 07:33:22 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[09-Apr-2025 06:08:32 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[09-Apr-2025 06:35:14 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[09-Apr-2025 07:18:42 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Apr-2025 07:23:54 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[10-Apr-2025 07:24:01 UTC] PHP Warning:  Undefined variable $i in /home/s8jx8d0mjf1d/public_html/lms/admin/course_content.php on line 57
+[10-Apr-2025 09:47:45 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-Apr-2025 10:16:37 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[11-Apr-2025 05:24:04 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[11-Apr-2025 06:08:14 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[11-Apr-2025 06:08:58 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[11-Apr-2025 08:08:07 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-Apr-2025 05:12:55 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-Apr-2025 06:07:25 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[14-Apr-2025 07:39:15 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[14-Apr-2025 08:56:23 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[17-Apr-2025 05:57:58 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[18-Apr-2025 06:20:28 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[18-Apr-2025 09:12:21 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[18-Apr-2025 14:03:31 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[19-Apr-2025 08:48:59 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[21-Apr-2025 06:45:48 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[21-Apr-2025 10:17:54 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[22-Apr-2025 08:07:24 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[23-Apr-2025 05:15:40 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[23-Apr-2025 05:21:51 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[23-Apr-2025 09:58:28 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[24-Apr-2025 06:38:08 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[24-Apr-2025 07:04:39 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[24-Apr-2025 09:21:13 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[25-Apr-2025 06:06:37 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[28-Apr-2025 08:32:42 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[28-Apr-2025 09:36:52 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[30-Apr-2025 08:28:57 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[30-Apr-2025 16:03:01 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[01-May-2025 12:44:57 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[02-May-2025 08:43:43 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[04-May-2025 14:25:25 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-May-2025 09:36:06 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-May-2025 09:36:49 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-May-2025 11:00:27 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[05-May-2025 11:08:17 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-May-2025 04:59:56 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-May-2025 05:00:41 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-May-2025 05:01:13 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-May-2025 05:01:52 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-May-2025 05:02:53 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-May-2025 05:03:28 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-May-2025 05:04:10 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-May-2025 06:48:00 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-May-2025 09:29:10 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[06-May-2025 09:42:48 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[07-May-2025 05:27:29 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[09-May-2025 04:43:42 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-May-2025 08:17:03 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-May-2025 08:23:06 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-May-2025 08:49:56 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[10-May-2025 14:22:06 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[11-May-2025 15:45:25 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-May-2025 06:41:09 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[12-May-2025 06:41:38 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[13-May-2025 06:11:22 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[13-May-2025 10:14:45 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[16-May-2025 09:02:44 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[19-May-2025 05:57:54 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[19-May-2025 08:15:22 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[22-May-2025 05:07:42 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[23-May-2025 04:51:10 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 75
+[24-May-2025 06:43:53 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[24-May-2025 06:56:00 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[26-May-2025 05:12:46 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[29-May-2025 09:56:12 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[30-May-2025 06:28:35 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[31-May-2025 05:24:01 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[31-May-2025 06:30:39 UTC] PHP Warning:  Undefined variable $month in /home/s8jx8d0mjf1d/public_html/lms/admin/editUserCourse.php on line 53
+[11-Jun-2025 04:13:19 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[11-Jun-2025 04:13:19 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[11-Jun-2025 04:13:19 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[11-Jun-2025 04:13:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'sriramanitha3@gmail.com' for key 'email' in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php:19
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 19
+[11-Jun-2025 05:40:56 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[11-Jun-2025 05:40:56 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[11-Jun-2025 05:40:56 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[11-Jun-2025 05:40:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'sriramanitha3@gmail.com' for key 'email' in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php:19
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 19
+[11-Jun-2025 05:41:28 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[11-Jun-2025 05:41:28 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[11-Jun-2025 05:41:28 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[11-Jun-2025 05:41:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'sriramanitha3@gmail.com' for key 'email' in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php:19
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 19
+[11-Jun-2025 05:42:05 UTC] PHP Warning:  Undefined array key "REMOTE_HOST" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 11
+[11-Jun-2025 05:42:05 UTC] PHP Warning:  Undefined array key "payuID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 13
+[11-Jun-2025 05:42:05 UTC] PHP Warning:  Undefined array key "internatID" in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 14
+[11-Jun-2025 05:42:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'sriramanitha3@gmail.com' for key 'email' in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php:19
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php(19): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/admin/create_users.php on line 19

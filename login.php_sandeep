@@ -1,0 +1,125 @@
+<?php
+ob_start();
+session_start();
+$msg = '';
+if(isset($_POST['email'])){
+	echo 'Please wait...';
+	include 'admin/dbConn.php';
+	$sql = "SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''))";
+	mysqli_query($con, $sql);
+	$email = $_POST['email'];
+	$password = $_POST['password'];
+	$password = md5(md5($password));
+	$sql = "SELECT * FROM `users` WHERE `email` LIKE '$email' AND `password` LIKE '$password'";
+	if($result = mysqli_query($con, $sql)){
+		$count = mysqli_num_rows($result);
+		if($count!=0){
+			while ($row = mysqli_fetch_row($result)) {
+				$hash = md5($email.$password.mt_rand(00000000,9999999));
+				$ID = $row[0];
+				$sql = "UPDATE `users` SET `hash` = '$hash' WHERE `ID` LIKE '$ID'";
+				if(mysqli_query($con, $sql)){
+					$_SESSION['token'] = $hash;
+					$_SESSION['id'] = $ID;
+					$_SESSION['logged_in'] = 1;
+					$_SESSION['uname'] = $row[8];
+					header("Location: index.php");
+				}
+			}
+		}else{
+			header("Location: login.php?ex=in");
+		}
+	}
+	exit();
+}
+
+if(isset($_GET['ex'])){
+	if($_GET['ex']=='in')
+		$msg = '<br>Invalid Credentials. Try again<br><br>';
+}
+?>
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Login : LMS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<script type="text/javascript">
+	if (location.protocol !== 'https:') {
+    location.replace(`https:${location.href.substring(location.protocol.length)}`);
+}
+</script>
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<link href="css/font-awesome.css" rel="stylesheet"> 
+<script src="js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript">
+  if (location.protocol !== 'https:') {
+    location.replace(`https:${location.href.substring(location.protocol.length)}`);
+}
+</script>
+<script src="js/modernizr.custom.js"></script>
+<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
+<script src="js/metisMenu.min.js"></script>
+<script src="js/custom.js"></script>
+<link href="css/custom.css" rel="stylesheet">
+<Style type="text/css">
+.form1S {
+	width:30%
+}
+</style>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '693960844900187'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=693960844900187&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+</head> 
+<body class="">
+<div class="main-content">
+		<div id="page-wrapper">
+			<div class="main-page login-page" class="form1S" style="margin-top:-60px;">
+				<center><img src="https://netzwerkacademy.com/wp-content/uploads/2020/01/Netzwerk-Academy-Logo-min.jpg" width="90px" style="margin-bottom:30px"></center>
+				<h2 class="title1">User Login</h2>
+				<div class="widget-shadow">
+					<div class="login-body">
+						<form action="login.php" method="post">
+							<input type="email" class="user" name="email" placeholder="Enter Your Email" required="">
+							<input type="password" name="password" class="lock" placeholder="Password" required="">							
+							<?php echo $msg; ?>
+							<div class="forgot-grid">
+								<div class="forgot">
+									<a href="forgot-password.php">Forgot password?</a>
+								</div>
+								<div class="clearfix"> </div>
+							</div>
+							<input type="submit" name="Sign In" value="Sign In">
+						</form>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+		<div class="footer">
+		   <p>&copy; 2021 LMS - Netzwerk Academy</p></div>
+	</div>
+	<script src="js/jquery.nicescroll.js"></script>
+	<script src="js/scripts.js"></script>
+   <script src="js/bootstrap.js"> </script>
+</body>
+</html>

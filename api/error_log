@@ -1,0 +1,55 @@
+[12-Sep-2024 04:21:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's not download python my laptop I'm confused how's dwon load python')' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6
+[18-Sep-2024 14:20:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't expired my access')' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6
+[03-Oct-2024 05:25:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't see my progress')' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6
+[15-Oct-2024 13:00:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't start')' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6
+[17-Oct-2024 09:55:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's my batch number')' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6
+[12-Nov-2024 10:18:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's 2nd chapter?')' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6
+[08-Dec-2024 03:25:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm NOT able to access YouTube Automation Course')' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6
+[09-Jan-2025 05:06:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't see my youtube automation course')' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6
+[31-Jan-2025 07:38:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't have an live class.but organisation will tell me hare is have live class wi...' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6
+[10-Mar-2025 19:40:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's not opening the course why')' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6
+[04-Jun-2025 13:48:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't get all the courese which mentor as said in the webinor')' at line 1 in /home/s8jx8d0mjf1d/public_html/lms/api/log.php:6
+Stack trace:
+#0 /home/s8jx8d0mjf1d/public_html/lms/api/log.php(6): mysqli_query()
+#1 {main}
+  thrown in /home/s8jx8d0mjf1d/public_html/lms/api/log.php on line 6

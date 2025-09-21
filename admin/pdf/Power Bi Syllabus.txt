@@ -1,0 +1,50 @@
+Introduction, Basic Concepts 
+Download and Install Power BI, Quick Look at Power BI Desktop Dec 2022 
+Create Power Bi Login, Login/Sign in to Power BI 
+Power BI EcoSystem,Licenses, Desktop Overview 
+Options & Settings 
+Covid Data Analysis 
+Download the data,Overview of Data 
+Load Data into Power BI, Column Tools 
+Data Model Property Pane, Check No Join issue 
+Single Vs Bi-Directional Join 
+Update Theme 
+Create Calculated Columns and Measures, Calculate with and Without filter 
+Expression Functions SUMX,MINX, MAXX 
+isfiltered, hasonevalue 
+Table Visual 
+Conditional Formatting, Data Bars,URL Icon 
+Matrix, Bar, Pie, TreeMap, Scatter Visuals 
+Map, Shape Map, Filled Map, Security Settings 
+Decomposition Tree, Q&A Visual 
+DAX Earlier 
+Date Table,Date Table FY Columns 
+DAX Search, Find,containsstring, containsstringexact
+Left, Right, Mid 
+calculatetable,Summarize,Summarize Vs Groupby, Summarize in Measures
+SummarizeColumns, Except, Distinct, Generateseries, Generate, Cross join 
+all, allselected, removefilters,allexcept 
+rankx, topn, dynamic topn with numeric parameters 
+Firstnonblankvalue, Lastnonblankvalue 
+Distinct count using values/summarize
+Time Intelligence Setup 
+totalmtd, datesmtd, datesqtd, datesytd, Last datesmtd, Last datesqtd, Last datesytd 
+Trailing Day, Week, Month, Qtr, Year, Year Week, Previousmonth, previousquarter, previousyear 
+Week on Week, WTD, Half(custom period) Till Date, HoH,Period on Period 
+DAX offset, isinscope, window, Index 
+Visual Interaction 
+Bookmarks 
+Field Parameter, Measure Slicer, Axis Slicer, Drill Through 
+Tooltip 
+Introduction to Power Query 
+Use First Row As a header, Remove Blank and Duplicates 
+Power Query UnPivot Data, Pivot Data, Transpose Data, Query Fill Up, Fill Down 
+Replace Values, Text Operations, Append Tables, Merge Tables 
+Power Query Custom Column, Extract Data 
+Column Quality, Profile, and Distribution
+Clean File, Publish File, Analyze on Power Bi Service 
+Create Report in Power BI Service 
+Service Dashboard 
+Power Bi Service App, Power BI Dataflow
+Live Connection 
+Tenant Setting

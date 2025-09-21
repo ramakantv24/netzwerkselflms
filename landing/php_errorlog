@@ -1,0 +1,20 @@
+[30-Mar-2021 05:49:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getCallbackUrl() in /home/customer/www/lms.netzwerkacademy.com/public_html/landing/terms_and_conditions.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/lms.netzwerkacademy.com/public_html/landing/terms_and_conditions.php on line 200
+[30-Mar-2021 05:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getCallbackUrl() in /home/customer/www/lms.netzwerkacademy.com/public_html/landing/terms_and_conditions.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/lms.netzwerkacademy.com/public_html/landing/terms_and_conditions.php on line 199
+[30-Mar-2021 05:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getCallbackUrl() in /home/customer/www/lms.netzwerkacademy.com/public_html/landing/terms_and_conditions.php:167
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/lms.netzwerkacademy.com/public_html/landing/terms_and_conditions.php on line 167
+[30-Mar-2021 05:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getCallbackUrl() in /home/customer/www/lms.netzwerkacademy.com/public_html/landing/terms_and_conditions.php:167
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/lms.netzwerkacademy.com/public_html/landing/terms_and_conditions.php on line 167
+[30-Mar-2021 05:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getCallbackUrl() in /home/customer/www/lms.netzwerkacademy.com/public_html/landing/terms_and_conditions.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/lms.netzwerkacademy.com/public_html/landing/terms_and_conditions.php on line 165
